@@ -38,7 +38,6 @@ public class ViberToVcardCommand implements Runnable {
 
     @Parameters(
         index = "0",
-
         description = "The path of the Viber datafile - usually resides in ${HOME}/.ViberPC/<yourPhoneNumber>/viber.db")
     String viberDatafilePath;
 
