@@ -2,6 +2,10 @@
 
 Extract contacts from a Viber datafile, to vCard format.
 
+Why? because I lost my contacts 😱,
+and I figured out that Viber Desktop stores all your contacts on disk 😎,
+even if it doesn't show them in the UI 🧐
+
 #### Usage
 ```
 Usage: viber-to-vcard [-hV] [-o[=<outputPath>]] <viberDatafilePath>
